@@ -32,9 +32,9 @@ Fall Detection and Prediction
 - You can see partioning code throught MobiAct_DataParsing.ipynb
 
 # Transfer Learning using MobiAct Dataset
-- I have used pretrained model using SmartFall Dataset to MobiAct Dataset but because of the difference of data collected domain result was really bad
-- The chart below describe the result of training SmartFall data, using pretrained model to MobiAct data, relearning pretrained model using MobiAct data
+- I have used pretrained model using SmartFall Dataset to MobiAct Dataset but because of the difference of data collected domain performance was really bad
+- The chart below describe the result of training SmartFall data & testing on SmartFall data, using pretrained model to test on MobiAct data, relearning pretrained model using MobiAct data
 
 ![스크린샷 2020-07-28 오후 4 57 55](https://user-images.githubusercontent.com/37397258/88636212-8f6ae880-d0f3-11ea-83f3-b91e025f320b.png)
 
-
+- The chart shows that relearning through pretrained model works well 

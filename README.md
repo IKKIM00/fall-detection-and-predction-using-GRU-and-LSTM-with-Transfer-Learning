@@ -1,5 +1,3 @@
-Fall Detection and Prediction
-
 # SmartFall Dataset Description
 
 ![스크린샷 2020-07-14 오후 8 20 59](https://user-images.githubusercontent.com/37397258/88628418-e4edc800-d0e8-11ea-945f-954084acb49d.png)
